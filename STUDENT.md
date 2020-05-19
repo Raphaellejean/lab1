@@ -1,8 +1,9 @@
 ```
-Student name: Linda Danvers
-Student number: 123456
+Student name: Raphaelle Jean-Baptiste
+Student number: 300085552
 Course code: ITI1121
 Lab: Lab01
-Course section: 02
+Course section: 03
+TA:Diana Lucaci
 Java: 1.8
 ```
